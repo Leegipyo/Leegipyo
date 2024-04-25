@@ -10,7 +10,7 @@
 [![Leegipyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegipyo&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
  
     
-## 🔨 Once I've used 🔨
+## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
