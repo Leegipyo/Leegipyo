@@ -9,7 +9,7 @@
 
 [![Leegipyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegipyo&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Leegipyo/github-readme-stats)
   <div>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leegipyo&theme=nord_dark&exclude={exclude}"/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leegipyo&theme=nord_dark"/>
   </div>
     
 ## 🔨 Skills 🔨
