@@ -40,22 +40,22 @@
 
 <br>
 
+-----------------
 <div align=center>
 <h3>📊 GitHub Stats 📊</h3>
 </div>
 
 -------
-  
-<div style="row">
-  <a href="https://github.com/Leegipyo" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leegipyo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <div align=center>
+<div style="display: flex; flex-direction: column;">
+  <a href="https://github.com/Leegipyo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leegipyo" alt="Anurag's GitHub stats">
   </a>
-  <a href="https://github.com/Leegipyo" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leegipyo&hide=c%23&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://github.com/Leegipyo/github-readme-stats">
+    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leegipyo&layout=compact" alt="Top Langs">
   </a>
 </div>
-
-
+</div>
 <br>
 
 
