@@ -1,44 +1,65 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Leegipyo's+GitHub!👋)](https://git.io/typing-svg)
- 
-<div align="conter">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=deebff&text=&animation=twinkling&height=80)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Leegipyo's+GitHub!👋)](https://git.io/typing-svg)
+
+<div align="center">
+
+---
+
+</div>
+<div align=center>
+<h3>📚 Tech Stack 📚</h32> 
+	
+---
+	
+ <p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+
+<br>
+
+<div align=center>
+<h3>📊 GitHub Stats 📊</h3>
+</div>
 
 -------
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeegipyo&count_bg=%233DC1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Leegipyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leegipyo&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Leegipyo/github-readme-stats)
-  <div>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leegipyo&theme=nord_dark"/>
-  </div>
-    
-## 🔨 Skills 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div><p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    </div>
-     <p><strong>Development Tools</strong></p>
-     <div>
-     <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-     </div>
-</div><br>
+  
+<div style="row">
+  <a href="https://github.com/Leegipyo" style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Leegipyo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Leegipyo" style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leegipyo&hide=c%23&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </div>
+
+
+<br>
+
+
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=deebff&height=100&section=footer)
